@@ -10,7 +10,8 @@ Dashboard responsivo da empresa fictícia **TechFlow** para acompanhar projetos,
 
 ## 🔗 Link do GitHub
 
-_https://github.com/enzoeccheli/techflow-dashboard_
+- **Repositório:** https://github.com/enzoeccheli/techflow-dashboard
+- **Site publicado (GitHub Pages):** https://enzoeccheli.github.io/techflow-dashboard/
 
 ## 🛠️ Tecnologias utilizadas
 
